@@ -1,5 +1,5 @@
-# Project1_Native_JS
-Первый проект состоит из Native Js .
+# Native_JS
+Проект состоит из Native Js .
 <br />
 Это MVC - проект: <br />
 В src/js/init/.. Создается шаблоны <br />
